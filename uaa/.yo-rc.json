@@ -1,0 +1,31 @@
+{
+  "generator-jhipster": {
+    "promptValues": {
+      "packageName": "com.songzi.uaa"
+    },
+    "jhipsterVersion": "4.5.6",
+    "baseName": "uaa",
+    "packageName": "com.songzi.uaa",
+    "packageFolder": "com/songzi/uaa",
+    "serverPort": "9999",
+    "authenticationType": "uaa",
+    "hibernateCache": "ehcache",
+    "clusteredHttpSession": false,
+    "websocket": false,
+    "databaseType": "sql",
+    "devDatabaseType": "h2Disk",
+    "prodDatabaseType": "postgresql",
+    "searchEngine": false,
+    "messageBroker": false,
+    "serviceDiscoveryType": "eureka",
+    "buildTool": "maven",
+    "enableSocialSignIn": false,
+    "jwtSecretKey": "8f2a54c6b7e0228b3e23613bcb348efc23c095de",
+    "enableTranslation": false,
+    "applicationType": "uaa",
+    "testFrameworks": [],
+    "jhiPrefix": "sz",
+    "skipClient": true,
+    "clientPackageManager": "yarn"
+  }
+}
