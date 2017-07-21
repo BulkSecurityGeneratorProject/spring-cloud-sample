@@ -43,7 +43,7 @@
         <maven.compiler.target>${java.version}</maven.compiler.target>
         <maven.version>3.0.0</maven.version>
         <metrics-spring.version>3.1.3</metrics-spring.version>
-        <node.version>v6.10.0</node.version>
+        <node.version>v6.10.3</node.version>
 
         <prometheus-simpleclient.version>0.0.20</prometheus-simpleclient.version>
         <!-- Sonar properties -->
@@ -86,7 +86,7 @@
         <springfox.version>2.6.1</springfox.version>
         <undertow.version>1.4.10.Final</undertow.version>
         <validation-api.version>1.1.0.Final</validation-api.version>
-        <yarn.version>v0.21.3</yarn.version>
+        <yarn.version>v0.27.5</yarn.version>
     </properties>
 
     <dependencyManagement>
